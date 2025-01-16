@@ -1,0 +1,53 @@
+.Web {
+    color: #2196F3;
+}
+
+.Studio {
+    color: #000000;
+}
+
+.header {
+    color: #212121;
+}
+
+.section {
+    background-color: #2F303A;
+}
+
+.blokone {
+    color: #FFFFFF;
+}
+
+.blok {
+    color: #FFFFFF;
+    background-color: #2196F3;
+}
+
+.bloktwu {
+    color: #212121;
+}
+
+.blokc {
+    color: #757575;
+}
+
+.button {
+    color: #212121;
+    background-color: #F5F4FA;
+}
+
+.headerr {
+    color: #FFFFFF;
+}
+
+.footer {
+    background-color: #2F303A;
+}
+
+.Studioo {
+    color: #FFFFFF;
+}
+
+.Studiooo {
+    color: hsl(0, 0%, 60%);
+}
